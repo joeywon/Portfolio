@@ -2,7 +2,7 @@
 Data analist Project Portfoilo
 
 ------------------
-### 1. Project - Auto Task Managing
+### 1. Project - [Auto Task Managing](https://github.com/joeywon/Portfolio/blob/main/Auto_task_managing.ipynb)
  **Background**
 The managers of ‘Spectrum dental lab’ make a report every day before the daily tasks start. They have a .csv file of ‘Tasks pending by technician’. 
 Every day, They choose what columns they need and then copy, paste, and delete the data to make a .xlsx report file. 
@@ -31,7 +31,7 @@ Every day, They choose what columns they need and then copy, paste, and delete t
 **Review**
 Now when they run a single exe file only 2sec to do whole reporting works.
 
-####[Auto Task Managing](https://github.com/joeywon/Portfolio/blob/main/Auto_task_managing.ipynb)
+
 ------------------
 
 ### 2. Project - Revenue Operations Analytics
