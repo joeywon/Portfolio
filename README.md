@@ -29,7 +29,7 @@ Every day, They choose what columns they need and then copy, paste, and delete t
 
 
 **Review**
-Now when they run a single exe file only 2sec to do whole reporting works.
+ -Now when they run a single exe file only 2sec to do whole reporting works.
 
 
 ------------------
