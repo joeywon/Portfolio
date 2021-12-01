@@ -31,6 +31,7 @@ Every day, They choose what columns they need and then copy, paste, and delete t
 **Review**
 Now when they run a single exe file only 2sec to do whole reporting works.
 
+[Auto Task Managing](https://github.com/joeywon/Portfolio/blob/main/Auto_task_managing.ipynb)
 ------------------
 
 ### 2. Project - Revenue Operations Analytics
