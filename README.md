@@ -34,7 +34,7 @@ Every day, They choose what columns they need and then copy, paste, and delete t
 
 ------------------
 
-### 2. Project - Revenue Operations Analytics
+### 2. Project - [Revenue Operations Analytics](https://public.tableau.com/app/profile/jeong.won/viz/_16383888450900/1?publish=yes)
  **Background**
 The CEO of the “Yuggyojjim’ restaurant wants to see the sales dashboard and check what menu is the most popular. they use two different online services and I combine them to see a better result.
  
