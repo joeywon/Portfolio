@@ -36,12 +36,12 @@ Every day, They choose what columns they need and then copy, paste, and delete t
 
 ### 2. Project - Revenue Operations Analytics
  **Background**
-The CEO of restaurant want to see the sales dashboard and check what menu is the most popular. they use two diffrent onlie service and I combine them to see better result
+The CEO of the “Yuggyojjim’ restaurant wants to see the sales dashboard and check what menu is the most popular. they use two different online services and I combine them to see a better result.
  
  **Summary**
 1. data collection
-    - Baemin online delivery service data(date + menu + discout +service type +sales profit)
-    - coupangeats online delivery service data(date + menu + discout +service type +sales profit)
+    - "Baemin" online delivery service data(date + menu + discout +service type +sales profit)
+    - oupangeats" online delivery service data(date + menu + discout +service type +sales profit)
    
 
 1. Data Preprocessing
